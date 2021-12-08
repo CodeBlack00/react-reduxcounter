@@ -1,0 +1,2 @@
+# react-reduxcounter
+React/redux counter created using more advanced redux and asynchronous processes. Counter changes when increment and decrement buttons are clicked. An input field is created where the user can input a number. Next to the input is a button. When the button is clicked, the original increment and decrement count should reset to the number that was inputted and the number of clicks should reset to zero.
